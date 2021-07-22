@@ -1,0 +1,1 @@
+![image](./HayvanlarClassDiagram.png)
